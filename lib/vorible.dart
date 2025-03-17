@@ -1,6 +1,6 @@
-void main (){
-  var name = "tong";
-  String names = "Tong";
-  print
 
+void main(){
+  for(int i = 0; i < 6; i ++){
+    print("Hello ${i +1}");
+  }
 }
